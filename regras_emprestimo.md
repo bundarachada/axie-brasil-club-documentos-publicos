@@ -1,3 +1,4 @@
+### Termos para empréstimo
 
 Você está entrando na fila para alugar um time com a Axie Brasil Club, leia com atenção nosso termo.
 O termo pode ser alterado, caso aconteça enviaremos por email a atualização do mesmo.
