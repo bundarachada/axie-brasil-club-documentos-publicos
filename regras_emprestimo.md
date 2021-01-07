@@ -4,7 +4,7 @@ O termo pode ser alterado, caso aconteça enviaremos por email a atualização d
 
 A conta possuindo os Axies será enviada por email para você conseguir acessar e começar a jogar.
 
-Termo de aluguel
+### Termo de aluguel
 
 Nossos times possuem seu preço semanal, fique atento no preço contratado.
 O custo do aluguel será cobrado semanalmente.
@@ -18,7 +18,7 @@ Toda semana checaremos a atividade do time.
 Se o custo do aluguel não for atingido não pagaremos a semana vigente.
 Se o custo do aluguel não for atingido removeremos seu acesso.
 
-Termo do saque
+### Termo do saque
 
 Você poderá realizar o saque após 2 semanas.
 O saque será disponibilizado em ETH.
