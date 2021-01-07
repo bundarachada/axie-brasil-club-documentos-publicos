@@ -32,3 +32,4 @@ Qualquer dúvida entre em contato com nosso suporte.
 
 Beijux,
 Equipe Axie Brasil Club
+
