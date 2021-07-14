@@ -29,7 +29,7 @@
 #### Confira este guia: [https://axie.substack.com/p/axie-community-alpha-getting-started](https://axie.substack.com/p/axie-community-alpha-getting-started)
 
 
-### - **O que é Etherium (ETH) e como eu o adquiro?**
+### **O que é Etherium (ETH) e como eu o adquiro?**
 #### O ETH é uma moeda criptográfica que é usada como pagamento para transações envolvendo bens digitais.
 
 #### Você pode comprar ETH diretamente de sua [carteira Ronin.](https://axie.substack.com/p/ramp) Há alguns países para os quais isto não é possível. Nesses casos, você pode precisar usar Coinbase (EUA), Binance (global), ou Localcryptos.
@@ -68,11 +68,11 @@
 
 #### Consulte [este artigo](https://medium.com/axie-infinity/mystic-axies-jewels-for-adigital-age-4dd1b599ca61) para maiores informações sobre os Mystic Axies.
 
-&nbsp;
+
 
 ### **O que são os Mystic Axies?**
 
- #### Os Axies Mystic fazem uma declaração quando alguém está escaneando sua conta e mostram que você é um verdadeiro conhecedor do raro mercado do Axie.
+#### Os Axies Mystic fazem uma declaração quando alguém está escaneando sua conta e mostram que você é um verdadeiro conhecedor do raro mercado do Axie.
 
 #### Como você, os Axies Mystic nasceram especiais. Apenas ~30% dos Axies de Origem possuem uma parte Mística.
 
@@ -80,7 +80,7 @@
 
 #### Rumores e lendas também dizem que eles terão poderes incríveis no futuro à medida que novas características e modos de jogo forem lançados.
 
-&nbsp;
+
 
 ### **Onde posso saber mais sobre a economia do Axie?**
 
@@ -94,7 +94,7 @@
 
 #### Você também pode aprender sobre a economia do Axie lendo nosso White Paper: [https://whitepaper.axieinfinity.com/](https://whitepaper.axieinfinity.com/)
 
-&nbsp;
+
 
 ### **O que é land?**
 
@@ -106,10 +106,10 @@
 
 #### Consulte [esta página](https://whitepaper.axieinfinity.com/gameplay/land) para obter mais detalhes.
 
-&nbsp;
+
 
 ### **Por que não consigo comprar um NFT?**
 
-  #### Certifique-se de que você baixou [carteira de Ronin](https://chrome.google.com/webstore/detail/ronin-wallet/fnjhmkhhmkbjkkabndcnnogagogbneec) e depositou ETH para Ronin através de [seu painel de instrumentos](https://marketplace.axieinfinity.com/profile/dashboard) Para depositar, você precisará de ETH em uma carteira de Ethereum como Metmask.
+#### Certifique-se de que você baixou [carteira de Ronin](https://chrome.google.com/webstore/detail/ronin-wallet/fnjhmkhhmkbjkkabndcnnogagogbneec) e depositou ETH para Ronin através de [seu painel de instrumentos](https://marketplace.axieinfinity.com/profile/dashboard) Para depositar, você precisará de ETH em uma carteira de Ethereum como Metmask.
 
 ![Axie](https://cdn.discordapp.com/attachments/847588085356560434/861246147967582249/Design_sem_nome_4.png "Axie")
