@@ -111,5 +111,3 @@
 ### **Por que não consigo comprar um NFT?**
 
 #### Certifique-se de que você baixou [carteira de Ronin](https://chrome.google.com/webstore/detail/ronin-wallet/fnjhmkhhmkbjkkabndcnnogagogbneec) e depositou ETH para Ronin através de [seu painel de instrumentos](https://marketplace.axieinfinity.com/profile/dashboard) Para depositar, você precisará de ETH em uma carteira de Ethereum como Metmask.
-
-![Axie](https://cdn.discordapp.com/attachments/847588085356560434/861246147967582249/Design_sem_nome_4.png =100x20 "Axie")
