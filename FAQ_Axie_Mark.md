@@ -1,4 +1,4 @@
-**FAQ Axie Infinity**
+#**FAQ Axie Infinity**
 
 ## **Axie Marketplace FAQ**
 
