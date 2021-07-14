@@ -1,15 +1,10 @@
-<!DOCTYPE Markdown>
-# <p align=center> **FAQ Axie Infinity**
-&nbsp;
-
+**FAQ Axie Infinity**
 
 ## **Axie Marketplace FAQ**
 
 ### - **O que é um NFT?**
 #### NFTS são bens digitais únicos com escassez verificável. Cada NFT é distinto um do outro, o que os distingue das moedas criptográficas como Bitcoin. 
 #### No Axie Infinity, eles são bens de jogo como animais de estimação e terrenos. O NFTS lhe dá direitos de propriedade completos sobre seus itens de jogo. Você pode vendê-los a qualquer pessoa, em qualquer lugar do mundo, através de nosso mercado.
-
-&nbsp;
 
 ### - **O que é Axie Infinity?**
 #### [Axie Infinity](https://axieinfinity.com/) é u m mundo virtual cheio de animais de estimação ferozes e adoráveis, chamados de Axies. Os exilados podem ser combatidos, coletados e até usados para ganhar moedas criptográficas com valor real. Axie não é apenas um jogo, é todo um universo de jogos onde você pode jogar com seus Axie NFTs. A utilidade e a diversão cozidas em seus Axies aumenta com o tempo à medida que mais experiências são construídas, tanto pela equipe central do Axie quanto pelos desenvolvedores de jogos comunitários.
@@ -30,15 +25,12 @@
 #### **6.** Faça o download do aplicativo [aqui](https://axieinfinity.com/community-alpha)
 #### **7.** Aprenda a jogar com guias como [estes](https://axie.substack.com/p/axie-infinity-community-alpha-guide) sites de fãs como [Axieworld](https://www.axieworld.com/en)
 
-&nbsp;
-
 ### **Como compro o Axie?**
 #### Confira este guia: [https://axie.substack.com/p/axie-community-alpha-getting-started](https://axie.substack.com/p/axie-community-alpha-getting-started)
 
-&nbsp;
 
- ### - **O que é Etherium (ETH) e como eu o adquiro?**
- #### O ETH é uma moeda criptográfica que é usada como pagamento para transações envolvendo bens digitais.
+### - **O que é Etherium (ETH) e como eu o adquiro?**
+#### O ETH é uma moeda criptográfica que é usada como pagamento para transações envolvendo bens digitais.
 
 #### Você pode comprar ETH diretamente de sua [carteira Ronin.](https://axie.substack.com/p/ramp) Há alguns países para os quais isto não é possível. Nesses casos, você pode precisar usar Coinbase (EUA), Binance (global), ou Localcryptos.
 
@@ -47,16 +39,11 @@
 
 #### Você pode comprar ETH diretamente de sua [carteira Ronin.](https://axie.substack.com/p/ramp) Há alguns países para os quais isto não é possível. Nesses casos, você pode precisar usar Coinbase (EUA), Binance (global), ou Localcryptos.
 
-&nbsp;
 
 ### **O que é de $AXS Token?**
 #### Axie Infinity Shards são o token de governança do Axie Infinity. [Veja este guia](https://whitepaper.axieinfinity.com/) para uma visão geral de sua finalidade.
-&nbsp;
 
-<p align="center">
-  <img src="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca41c683-834e-4235-a354-9e0380816378_102x128.png" />
-</p>
-&nbsp;
+![Axie](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca41c683-834e-4235-a354-9e0380816378_102x128.png "Title")
 
 ## **Adquirindo Axies e Lands**
 
