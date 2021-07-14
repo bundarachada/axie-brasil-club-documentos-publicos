@@ -43,7 +43,7 @@
 ### **O que é de $AXS Token?**
 #### Axie Infinity Shards são o token de governança do Axie Infinity. [Veja este guia](https://whitepaper.axieinfinity.com/) para uma visão geral de sua finalidade.
 
-![Axie](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca41c683-834e-4235-a354-9e0380816378_102x128.png "Title")
+![Axie](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca41c683-834e-4235-a354-9e0380816378_102x128.png "Axie")
 
 ## **Adquirindo Axies e Lands**
 
@@ -113,5 +113,4 @@
   #### Certifique-se de que você baixou [carteira de Ronin](https://chrome.google.com/webstore/detail/ronin-wallet/fnjhmkhhmkbjkkabndcnnogagogbneec) e depositou ETH para Ronin através de [seu painel de instrumentos](https://marketplace.axieinfinity.com/profile/dashboard) Para depositar, você precisará de ETH em uma carteira de Ethereum como Metmask.
 
 
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/847588085356560434/861246147967582249/Design_sem_nome_4.png" alt="Sgt_William estéve aqui" style="width:200px;">
+![Axie](https://cdn.discordapp.com/attachments/847588085356560434/861246147967582249/Design_sem_nome_4.png "Axie")
