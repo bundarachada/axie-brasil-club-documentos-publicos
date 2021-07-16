@@ -1,24 +1,5 @@
 <b><p style="text-align: center;"><h1>Guia Axie Infinity Buffs e Debuffs</h1></p></b>
-<p>
- <h4>
-Enquanto jogam o Alfa, muitos jogadores notam ícones que são aplicados aos Axies após certos ataques. O primeiro encontro é tipicamente com um ataque no PVE, deixando um símbolo desagradável acima de sua cabeça de Axies.
- </h4>
-</p>
-<p>
- <h4>
-Este símbolo, é chamado de modificador de status - neste caso, o ícone representa um modificador chamado "Stun", um <b>"debuff"</b> que afeta negativamente seu Axie. O oposto disto, é chamado de <b>"buff"</b> - que é um modificador que afeta positivamente um Axie.
- </h4>
-</p>
-<p>
- <h4>
-Existem atualmente 16 modificadores de status no jogo, divididos entre 3 buffs e 13 debuffs. Como mais jogadas são introduzidas no jogo, e partes são dadas a capacidade de nivelar para cima, é provável que sejam adicionados modificadores adicionais.
- </h4>
-</p>
-<p>
- <h4>
-É importante observar que os efeitos modificadores de status podem se acumular em alguns casos. Nesses casos, você verá o número de pilhas ao lado do ícone para representar isso.
- </h4>
-</p>
+<p>Enquanto jogam o Alfa, muitos jogadores notam ícones que são aplicados aos Axies após certos ataques. O primeiro encontro é tipicamente com um ataque no PVE, deixando um símbolo desagradável acima de sua cabeça de Axies. Este símbolo, é chamado de modificador de status - neste caso, o ícone representa um modificador chamado "Stun", um <b>"debuff"</b> que afeta negativamente seu Axie. O oposto disto, é chamado de <b>"buff"</b> - que é um modificador que afeta positivamente um Axie. Existem atualmente 16 modificadores de status no jogo, divididos entre 3 buffs e 13 debuffs. Como mais jogadas são introduzidas no jogo, e partes são dadas a capacidade de nivelar para cima, é provável que sejam adicionados modificadores adicionais. É importante observar que os efeitos modificadores de status podem se acumular em alguns casos. Nesses casos, você verá o número de pilhas ao lado do ícone para representar isso.</p>
 
 <h2><b>Buffs</b></h2>
 
