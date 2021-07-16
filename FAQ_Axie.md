@@ -31,7 +31,7 @@ Na superfície, Axie pode parecer semelhante a Pokemon, Tamogochi, ou até mesmo
 <h3>Como compro o Axie?</h3>
 <p>Confira este guia: <a href="https://axie.substack.com/p/axie-community-alpha-getting-started">https://axie.substack.com/p/axie-community-alpha-getting-started</a></p>
 
-<h3>O que é Etherium (ETH) e como eu o adquiro?</h3>
+<h3>O que é Ethereum (ETH) e como eu o adquiro?</h3>
 
 <p>O ETH é uma moeda criptográfica que é usada como pagamento para transações envolvendo bens digitais.
   Você pode comprar ETH diretamente de sua <a href="https://axie.substack.com/p/ramp">carteira Ronin.</a> Há alguns países para os quais isto não é possível. Nesses casos, você pode precisar usar Coinbase (EUA), Binance (global), ou Localcryptos.
